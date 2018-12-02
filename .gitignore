@@ -1,0 +1,15 @@
+# Log file
+*.log
+
+# Package Files #
+*.ear
+*.tar.gz
+*.rar
+*.iml
+
+.idea
+.svn
+
+target/
+
+.DS_Store
